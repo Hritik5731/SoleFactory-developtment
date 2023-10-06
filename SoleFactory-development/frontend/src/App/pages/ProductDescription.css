@@ -1,0 +1,8 @@
+.prod {
+  width: 800px;
+}
+
+.counter {
+  display: flex;
+  float: left;
+}
